@@ -7,7 +7,8 @@ Clase que representa a cada participante.
 - Atributos: nombre, edad, respuesta_proyecto
 - Método estático: crear_estudiante_input()
 Solicita nombre y edad por consola, validando los datos. Agrega el nombre a lista_estudiantes.
-<img width="663" height="456" alt="image" src="https://github.com/user-attachments/assets/872c24af-0948-43cf-9133-c2f9ea693d96" />
+<img width="662" height="474" alt="image" src="https://github.com/user-attachments/assets/fc826ca2-1bf8-417e-b915-b605f1634e9a" />
+
 
 2. Encuesta
 Clase que gestiona las preguntas y respuestas del formulario.

@@ -26,6 +26,12 @@ Ejecuta el flujo completo para 10 estudiantes:
 - Muestra el resumen individual
 - Al final, imprime todos los resultado
 <img width="584" height="193" alt="image" src="https://github.com/user-attachments/assets/61ecf3b5-0e57-434a-8151-286d6fa18dc0" />
+# Notas
+- Las respuestas se almacenan en lista_estudiantes y lista_encuestas
+- Se valida que el nombre no esté vacío y que la edad sea coherente (entre 5 y 99 años)
+- Las respuestas vacías no se aceptan
+# Autor
+Juan Sebastián Corredor Sáenz
 
 
 
